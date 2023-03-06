@@ -1,0 +1,22 @@
+#div_caixa{
+    height: 128px;
+    width: 412px;
+    background-color: black;
+    padding: 10px;
+    border: 5px solid chartreuse;
+    border-radius: 7px;
+}
+
+#div_bola{
+    height: 50px;
+    width: 50px;
+    padding: 0%;
+    border: 2px solid chartreuse;
+    border-radius: 50%;
+    background-color: lightblue;
+}
+    
+p{
+    color: chartreuse;
+    font-family: Segoe UI;
+}
